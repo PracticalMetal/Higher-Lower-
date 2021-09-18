@@ -8,6 +8,7 @@ cur_score=0
 user_input=""
 end_of_game=False
 
+
 choice_one={}
 choice_two={}
 higher_choice={}
